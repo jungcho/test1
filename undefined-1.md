@@ -16,5 +16,9 @@
 
 {% embed url="https://youtu.be/HzeYb00eQRI" %}
 
+## Getting Started with Kinect and Processing
 
+튜토리얼과, 코딩에 대해서 유튜브 강의를 하고 있다. 제품은 키넥트 이전 버전을 사용하는 것 같다.
+
+[https://shiffman.net/p5/kinect/](https://shiffman.net/p5/kinect/)
 
