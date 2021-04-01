@@ -1,10 +1,7 @@
 # Table of contents
 
-* [서언](README.md)
-* [시스템 만들기](undefined-1.md)
-* [책쓰기](undefined.md)
-* [GitBook을 이용한 책쓰기](gitbook.md)
-* [API](api.md)
-* [FAQ](faq.md)
-* [test](test.md)
+* [시작페이지](README.md)
+* [제품소개](undefined.md)
+* [제품 공부하기](undefined-1.md)
+* [이론공부하기](undefined-2.md)
 
